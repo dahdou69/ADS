@@ -1,0 +1,16 @@
+{
+  "banner_admob": "value1",
+  "inter_admob": "value2",
+  "reword_admob": "value3",
+  "sdk_key": "value4",
+  "banner_applovin": "value5",
+  "inter_applovin": "value6",
+  "reword_applovin": "value7",
+  "game_id": "value8",
+  "banner_unity": "value9",
+  "inter_unity": "value10",
+  "reword_unity": "value11",
+  "banner_fan": "value12",
+  "inter_fan": "value13",
+  "reword_fan": "value14"
+}
