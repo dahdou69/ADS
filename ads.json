@@ -1,7 +1,7 @@
 {
-  "banner_admob": "value1",
-  "inter_admob": "value2",
-  "reword_admob": "value3",
+  "banner_admob": "ca-app-pub-3940256099942544/6300978111",
+  "inter_admob": "ca-app-pub-3940256099942544/1033173712",
+  "reword_admob": "ca-app-pub-3940256099942544/5354046379",
   "sdk_key": "value4",
   "banner_applovin": "value5",
   "inter_applovin": "value6",
