@@ -1,0 +1,16 @@
+{
+  "banner_admob": "ca-app-pub-3940256099942544/6300978111",
+  "inter_admob": "ca-app-pub-3940256099942544/1033173712",
+  "reword_admob": "ca-app-pub-3940256099942544/5354046379",
+  "sdk_key": "value4",
+  "banner_applovin": "value5",
+  "inter_applovin": "value6",
+  "reword_applovin": "value7",
+  "game_id": "value8",
+  "banner_unity": "value9",
+  "inter_unity": "value10",
+  "reword_unity": "value11",
+  "banner_fan": "value12",
+  "inter_fan": "value13",
+  "reword_fan": "value14"
+}
